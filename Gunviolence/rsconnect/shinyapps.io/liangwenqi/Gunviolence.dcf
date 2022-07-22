@@ -1,13 +1,13 @@
 name: Gunviolence
-title: Gunviolence
+title:
 username:
 account: liangwenqi
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 6643266
-bundleId: 6099029
+bundleId: 6102753
 url: https://liangwenqi.shinyapps.io/Gunviolence/
-when: 1657826610.34757
-lastSyncTime: 1657826610.34758
+when: 1657931543.27026
+lastSyncTime: 1657931543.27029
 asMultiple: FALSE
 asStatic: FALSE
